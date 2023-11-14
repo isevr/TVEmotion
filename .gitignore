@@ -7,3 +7,4 @@ vid.csv
 #folders
 __pycache__/
 MELD.Raw/
+dev_splits_complete/
