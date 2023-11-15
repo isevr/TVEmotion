@@ -3,6 +3,7 @@ dev_sent_emo.csv
 train_sent_emo.csv
 glove.6B.300d.txt
 vid.csv
+glove.6B.50d.txt
 
 #folders
 __pycache__/
