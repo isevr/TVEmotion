@@ -1,0 +1,19 @@
+videos_list = [] // List to store video clips containing exactly 1 face
+face_embeddings_list = [] // List to store face embeddings
+text_embeddings_list = [] // List to store text embeddings
+
+For each video clip in folder:
+    If video clip contains exactly 1 face:
+        Add video clip to videos_list
+    Else:
+        Continue to the next video clip
+
+For each video clip in videos_list:
+    detected_face = DetectFace(video clip) // Function to detect face in video clip
+    face_embedding = ExtractFaceEmbeddings(detected_face) // Function to extract face embeddings
+    
+    Add face_embedding to face_embeddings_list
+    
+    text_embedding = ExtractTextEmbeddings(video clip) // Function to extract text embeddings
+    
+    Add text_embedding to text_embeddings_list
