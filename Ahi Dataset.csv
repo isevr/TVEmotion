@@ -1,0 +1,71 @@
+utterance,emotion,check,By
+"1. ""Feeling down today, everything seems a bit grey.""",Sadness,TRUE,A
+"2. ""Just can't shake off this feeling of heaviness.""",Sadness,TRUE,A
+"3. ""It's like a weight in my chest that won't go away.""",Sadness,TRUE,A
+"4. ""Trying to find some light in this darkness, but it's tough.""",Sadness,TRUE,A
+"5. ""Feeling a bit lost and not sure how to lift my spirits.""",Sadness,TRUE,I
+"6. ""Sometimes, it's hard to put on a smile when inside it hurts.""",Sadness,TRUE,I
+"7. ""The tears won't stop flowing, and it's hard to explain.""",Sadness,TRUE,I
+"8. ""Heart feels heavy, and it's tough to find motivation.""",Sadness,TRUE,E
+"9. ""Wish I could rewind and change things, but reality stings.""",Sadness,TRUE,E
+"10. ""Trying to stay strong, but today, it's just not happening.""",Sadness,TRUE,E
+"1. ""Can't believe this actually happened! Wow!""",Surprise,TRUE,A
+"2. ""Wait, what? I'm completely taken aback by this news!""",Surprise,TRUE,A
+"3. ""Just got the most unexpected message! Mind blown.""",Surprise,TRUE,A
+"4. ""Surprised beyond words right now, didn't see that coming!""",Surprise,TRUE,A
+"5. ""This is one shocker of a moment, speechless!""",Surprise,TRUE,I
+"6. ""Incredible surprise, didn't anticipate this at all.""",Surprise,TRUE,I
+"7. ""Wow, that's a curveball I never saw coming!""",Surprise,TRUE,I
+"8. ""Surprise of the day - this news has me wide-eyed!""",Surprise,TRUE,E
+"9. ""Totally caught off guard, but in a good way!""",Surprise,TRUE,E
+"10. ""Unexpected turn of events, but I'm pleasantly surprised!""",Surprise,TRUE,E
+"1. ""Just a regular day, nothing too exciting happening.""",Neutral,TRUE,A
+"2. ""Things are pretty chill, nothing extraordinary.""",Neutral,TRUE,A
+"3. ""Just going through the motions, nothing too special.""",Neutral,TRUE,A
+"4. ""Neutral vibes today, not much to report.""",Neutral,TRUE,A
+"5. ""Everything's average, no highs or lows.""",Neutral,TRUE,I
+"6. ""Feeling pretty balanced, no strong emotions either way.""",Neutral,TRUE,I
+"7. ""Nothing particularly remarkable happening today.""",Neutral,TRUE,I
+"8. ""Just an ordinary day, nothing to write home about.""",Neutral,TRUE,E
+"9. ""Everything's steady, no big changes on the horizon.""",Neutral,TRUE,E
+"10. ""Neutral state of mind, coasting through the day.""",Neutral,TRUE,E
+"1. ""So happy, I can't stop smiling! Life's good!""",Joy,TRUE,A
+"2. ""Feeling ecstatic today, everything's going right!""",Joy,TRUE,A
+"3. ""Pure joy running through me, can't contain it!""",Joy,TRUE,A
+"4. ""Happiness overload, the world feels wonderful!""",Joy,TRUE,A
+"5. ""Absolutely thrilled about the news I just got!""",Joy,TRUE,I
+"6. ""Bubbling with joy, it's contagious!""",Joy,TRUE,I
+"7. ""Today's filled with sunshine and happiness!""",Joy,TRUE,I
+"8. ""Grinning from ear to ear, joyous beyond words!""",Joy,TRUE,E
+"9. ""Overflowing with happiness, life's treating me well!""",Joy,TRUE,E
+"10. ""Incredibly happy, dancing through the day!""",Joy,TRUE,E
+"1. ""Fuming right now, can't believe this happened!""",Anger,TRUE,A
+"2. ""So frustrated, I could scream!""",Anger,TRUE,A
+"3. ""Angry beyond words, need to cool down.""",Anger,TRUE,A
+"4. ""Feeling rage building up, trying to keep calm.""",Anger,TRUE,A
+"5. ""Seething with anger, trying to breathe through it.""",Anger,TRUE,I
+"6. ""Just want to punch something, so infuriated!""",Anger,TRUE,I
+"7. ""This situation has me boiling with anger.""",Anger,TRUE,I
+"8. ""Can't shake off this intense anger, need an outlet.""",Anger,TRUE,E
+"9. ""Anger levels at max, need some space to calm down.""",Anger,TRUE,E
+"10. ""Feeling really heated, trying hard to keep it together.""",Anger,TRUE,E
+"1. ""Absolutely repulsed by what I just saw, gross!""",Disgust,TRUE,M
+"2. ""Feeling sick to my stomach, that was disgusting.""",Disgust,TRUE,M
+"3. ""Yuck! Can't get over how gross that was.""",Disgust,TRUE,M
+"4. ""Disgusted beyond words, need to shake it off.""",Disgust,TRUE,M
+"5. ""Just witnessed something utterly revolting, ugh!""",Disgust,TRUE,M
+"6. ""Feeling repelled by what I encountered, not cool!""",Disgust,TRUE,M
+"7. ""Grossed out to the max, need to erase that image.""",Disgust,TRUE,M
+"8. ""That was truly disgusting, can't get it out of my head.""",Disgust,TRUE,E
+"9. ""Feeling queasy after seeing something really gross.""",Disgust,TRUE,E
+"10. ""So grossed out right now, wish I hadn't seen that!""",Disgust,TRUE,E
+"1. ""Feeling really scared, something doesn't feel right.""",Fear,TRUE,M
+"2. ""Heart's racing, can't shake off this sense of dread.""",Fear,TRUE,M
+"3. ""Scared out of my wits, need some reassurance.""",Fear,TRUE,M
+"4. ""Something's giving me the chills, feeling really uneasy.""",Fear,TRUE,M
+"5. ""Anxiety levels off the charts, can't calm down.""",Fear,TRUE,M
+"6. ""Terrified about what might happen, need to stay strong.""",Fear,TRUE,M
+"7. ""Fearing the worst, trying to keep a brave face.""",Fear,TRUE,M
+"8. ""Feeling a knot in my stomach, scared to move forward.""",Fear,TRUE,E
+"9. ""That was really frightening, still shaking.""",Fear,TRUE,E
+"10. ""Feeling the fear creep in, trying to breathe through it.""",Fear,TRUE,E
