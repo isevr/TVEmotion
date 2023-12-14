@@ -10,3 +10,4 @@ facenet_keras_weights.h5
 __pycache__/
 MELD.Raw/
 dev_splits_complete/
+Emotions dataset/
